@@ -1,4 +1,4 @@
-<center><h2>Hello World, Bem-Vindos ao meu GitHub</h2></center>
+<center> <h2> Hello World, Bem-Vindos ao meu GitHub </h2> </center>
 
 <!--
 **GuSena12/GuSena12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
