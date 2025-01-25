@@ -1,6 +1,14 @@
-## Hello World, Bem-Vindos ao meu GitHub ✋ 
+## Hello World, Bem-Vindos ao meu GitHub 👋
 
 ![Gif Programando](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+
+#### Sobre mim
+------------------
+Me chamo Gustavo da Silva Sena
+
+Estudante de análise e desenvolvimento de sistemas
+
+
 
 <!--
 **GuSena12/GuSena12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
