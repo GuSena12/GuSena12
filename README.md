@@ -1,4 +1,4 @@
-## Hello World, Bem-Vindos ao meu GitHub
+## Hello World, Bem-Vindos ao meu GitHub ✋ 
 
 ![Gif Programando](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
