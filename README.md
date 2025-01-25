@@ -1,8 +1,5 @@
-# Hi there 👋
+<center><h2>Hello World, Sejam BBem-Vindos ao meu Git Hub</h2></center>
 
-*Seja Bem-vindos ao meu GitHub*
-
-![www.linkedin.com/in/gustavo-sena-4985a3241](https://icons8.com.br/icon/13930/linkedin)
 <!--
 **GuSena12/GuSena12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
