@@ -1,10 +1,11 @@
 ## Hello World, Bem-Vindos ao meu GitHub 👋
 
 ![Gif Programando](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+----------
 
 #### Sobre mim
 ------------------
-Me chamo Gustavo da Silva Sena
+Olá, Sou Gustavo Sena!
 
 Estudante de análise e desenvolvimento de sistemas
 
