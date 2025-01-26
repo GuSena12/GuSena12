@@ -1,4 +1,4 @@
-## Hello World, Bem-Vindos ao meu GitHub 👋
+<p align="center"> Hello World, Bem-Vindos ao meu GitHub 👋 </p>
 
 ![Gif Programando](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
@@ -13,7 +13,9 @@ Estudante de análise e desenvolvimento de sistemas
 -------------
 ## Minhas Tecnologias
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="80px">
+</p>
 
 ---------
 
