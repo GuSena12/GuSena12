@@ -1,4 +1,4 @@
-<p align="center"> Hello World, Bem-Vindos ao meu GitHub 👋 </p>
+<p align="center"> <h1><strong>Hello World, Bem-Vindos ao meu GitHub 👋</h1></strong> </p>
 
 ![Gif Programando](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
