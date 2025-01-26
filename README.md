@@ -1,7 +1,7 @@
 # Hello World, I'm Gustavo
 
 <div align="center">
-< <img height="320em" src="https://br.pinterest.com/pin/764063893055046514/"/>
+<img height="320em" src="https://br.pinterest.com/pin/764063893055046514/"/>
 </div>
 
 ## Sobre mim
