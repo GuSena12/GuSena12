@@ -1,14 +1,11 @@
+# Hello World, I'm Gustavo
 
+<div align="center">
+<!-- <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
+  <img height="350em" src="./.github/assets/banner.png"/>
+</div>
 
-<p align="center"><h1>Hello World, Sou Gustavo 👋</h1></p>
-
-![Programando](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
-
------
-
-# Sobre mim
-
------
+## Sobre mim
 
 👽 Olá, Sou Gustavo Sena!
 
@@ -16,12 +13,15 @@
 
 🎯 Objetivo profissional: Se tornar um desenvolvedor front-end
 
--------------
-# Minhas Tecnologias
+## Minhas Tecnologias
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="80px">
 </p>
+
+## Contatos
+
+
 
 
 <!--
