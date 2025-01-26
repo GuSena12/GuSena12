@@ -19,7 +19,7 @@ Estudante de análise e desenvolvimento de sistemas
 
 | CURSOS | | CERTIFICADOS |
 |--------| |--------------|
-|PROGRAMAÇÃO DO ZERO | |[CERTIFICADO](https://hermes.dio.me/certificates/2706B1CF.pdf) |
+| PROGRAMAÇÃO DO ZERO | |[CERTIFICADO](https://hermes.dio.me/certificates/2706B1CF.pdf) |
 
 
 
