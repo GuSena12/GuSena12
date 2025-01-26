@@ -2,8 +2,9 @@
 
 <p align="center"><h1>Hello World, Sou Gustavo 👋</h1></p>
 
-
-![Gif Programando](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+<p align="center">
+<img src="(https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="500px">
+</p>
 
 ----------
 
